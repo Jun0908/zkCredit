@@ -1,0 +1,902 @@
+[
+    {
+        "Account Balance":2694.11,
+        "Wallet Balance (ETH)":0.43,
+        "Total Mobile Money Transactions":394.31,
+        "Social Media Activity Data":1497,
+        "Mobile Phone Usage":45.44,
+        "Number of Late Payments":9,
+        "Credit Score":285.4071994615
+    },
+    {
+        "Account Balance":1760.98,
+        "Wallet Balance (ETH)":1.02,
+        "Total Mobile Money Transactions":551.74,
+        "Social Media Activity Data":1802,
+        "Mobile Phone Usage":39.45,
+        "Number of Late Payments":7,
+        "Credit Score":333.8493178769
+    },
+    {
+        "Account Balance":4881.45,
+        "Wallet Balance (ETH)":1.69,
+        "Total Mobile Money Transactions":984.22,
+        "Social Media Activity Data":3681,
+        "Mobile Phone Usage":69.53,
+        "Number of Late Payments":5,
+        "Credit Score":960.1601709868
+    },
+    {
+        "Account Balance":2291.93,
+        "Wallet Balance (ETH)":0.52,
+        "Total Mobile Money Transactions":294.28,
+        "Social Media Activity Data":4960,
+        "Mobile Phone Usage":47.82,
+        "Number of Late Payments":1,
+        "Credit Score":335.178049375
+    },
+    {
+        "Account Balance":3063.27,
+        "Wallet Balance (ETH)":1.6,
+        "Total Mobile Money Transactions":405.42,
+        "Social Media Activity Data":4193,
+        "Mobile Phone Usage":23.67,
+        "Number of Late Payments":4,
+        "Credit Score":695.6539777194
+    },
+    {
+        "Account Balance":1253.47,
+        "Wallet Balance (ETH)":1.05,
+        "Total Mobile Money Transactions":750.16,
+        "Social Media Activity Data":3694,
+        "Mobile Phone Usage":48.86,
+        "Number of Late Payments":1,
+        "Credit Score":332.2245234986
+    },
+    {
+        "Account Balance":4966.17,
+        "Wallet Balance (ETH)":1.87,
+        "Total Mobile Money Transactions":125.42,
+        "Social Media Activity Data":4315,
+        "Mobile Phone Usage":54.0,
+        "Number of Late Payments":7,
+        "Credit Score":993.8940663123
+    },
+    {
+        "Account Balance":2323.08,
+        "Wallet Balance (ETH)":1.24,
+        "Total Mobile Money Transactions":459.53,
+        "Social Media Activity Data":2435,
+        "Mobile Phone Usage":73.0,
+        "Number of Late Payments":9,
+        "Credit Score":463.5072635492
+    },
+    {
+        "Account Balance":3682.21,
+        "Wallet Balance (ETH)":0.54,
+        "Total Mobile Money Transactions":311.46,
+        "Social Media Activity Data":3286,
+        "Mobile Phone Usage":28.86,
+        "Number of Late Payments":6,
+        "Credit Score":477.5846176446
+    },
+    {
+        "Account Balance":4063.02,
+        "Wallet Balance (ETH)":1.61,
+        "Total Mobile Money Transactions":796.96,
+        "Social Media Activity Data":2285,
+        "Mobile Phone Usage":71.22,
+        "Number of Late Payments":9,
+        "Credit Score":792.278473452
+    },
+    {
+        "Account Balance":2926.73,
+        "Wallet Balance (ETH)":0.36,
+        "Total Mobile Money Transactions":526.63,
+        "Social Media Activity Data":1583,
+        "Mobile Phone Usage":61.07,
+        "Number of Late Payments":6,
+        "Credit Score":312.4624069557
+    },
+    {
+        "Account Balance":4206.55,
+        "Wallet Balance (ETH)":0.43,
+        "Total Mobile Money Transactions":651.9,
+        "Social Media Activity Data":1644,
+        "Mobile Phone Usage":37.0,
+        "Number of Late Payments":6,
+        "Credit Score":501.2415592215
+    },
+    {
+        "Account Balance":3435.56,
+        "Wallet Balance (ETH)":1.48,
+        "Total Mobile Money Transactions":499.96,
+        "Social Media Activity Data":3311,
+        "Mobile Phone Usage":67.82,
+        "Number of Late Payments":8,
+        "Credit Score":687.9255096753
+    },
+    {
+        "Account Balance":3524.72,
+        "Wallet Balance (ETH)":0.11,
+        "Total Mobile Money Transactions":792.41,
+        "Social Media Activity Data":3806,
+        "Mobile Phone Usage":68.43,
+        "Number of Late Payments":7,
+        "Credit Score":366.2367243887
+    },
+    {
+        "Account Balance":1135.69,
+        "Wallet Balance (ETH)":1.91,
+        "Total Mobile Money Transactions":111.11,
+        "Social Media Activity Data":4204,
+        "Mobile Phone Usage":29.58,
+        "Number of Late Payments":2,
+        "Credit Score":523.8249903545
+    },
+    {
+        "Account Balance":4306.27,
+        "Wallet Balance (ETH)":1.4,
+        "Total Mobile Money Transactions":994.72,
+        "Social Media Activity Data":3935,
+        "Mobile Phone Usage":75.01,
+        "Number of Late Payments":5,
+        "Credit Score":815.3263391034
+    },
+    {
+        "Account Balance":2924.18,
+        "Wallet Balance (ETH)":1.3,
+        "Total Mobile Money Transactions":486.42,
+        "Social Media Activity Data":1868,
+        "Mobile Phone Usage":18.98,
+        "Number of Late Payments":7,
+        "Credit Score":555.677417376
+    },
+    {
+        "Account Balance":2901.32,
+        "Wallet Balance (ETH)":0.68,
+        "Total Mobile Money Transactions":997.59,
+        "Social Media Activity Data":4916,
+        "Mobile Phone Usage":86.3,
+        "Number of Late Payments":1,
+        "Credit Score":476.5789078605
+    },
+    {
+        "Account Balance":2005.97,
+        "Wallet Balance (ETH)":1.85,
+        "Total Mobile Money Transactions":423.45,
+        "Social Media Activity Data":1183,
+        "Mobile Phone Usage":73.85,
+        "Number of Late Payments":1,
+        "Credit Score":584.5493596873
+    },
+    {
+        "Account Balance":2482.16,
+        "Wallet Balance (ETH)":1.96,
+        "Total Mobile Money Transactions":882.34,
+        "Social Media Activity Data":1843,
+        "Mobile Phone Usage":42.87,
+        "Number of Late Payments":6,
+        "Credit Score":684.2854214053
+    },
+    {
+        "Account Balance":3673.74,
+        "Wallet Balance (ETH)":1.88,
+        "Total Mobile Money Transactions":854.26,
+        "Social Media Activity Data":1243,
+        "Mobile Phone Usage":85.76,
+        "Number of Late Payments":9,
+        "Credit Score":796.537323456
+    },
+    {
+        "Account Balance":2980.65,
+        "Wallet Balance (ETH)":0.52,
+        "Total Mobile Money Transactions":292.37,
+        "Social Media Activity Data":1179,
+        "Mobile Phone Usage":30.08,
+        "Number of Late Payments":3,
+        "Credit Score":356.8529516694
+    },
+    {
+        "Account Balance":2830.27,
+        "Wallet Balance (ETH)":1.25,
+        "Total Mobile Money Transactions":619.32,
+        "Social Media Activity Data":2218,
+        "Mobile Phone Usage":73.68,
+        "Number of Late Payments":7,
+        "Credit Score":539.6929275841
+    },
+    {
+        "Account Balance":1134.49,
+        "Wallet Balance (ETH)":1.19,
+        "Total Mobile Money Transactions":917.11,
+        "Social Media Activity Data":694,
+        "Mobile Phone Usage":88.99,
+        "Number of Late Payments":9,
+        "Credit Score":283.5037766582
+    },
+    {
+        "Account Balance":3298.91,
+        "Wallet Balance (ETH)":0.92,
+        "Total Mobile Money Transactions":849.04,
+        "Social Media Activity Data":2871,
+        "Mobile Phone Usage":70.56,
+        "Number of Late Payments":5,
+        "Credit Score":539.4456166066
+    },
+    {
+        "Account Balance":2138.25,
+        "Wallet Balance (ETH)":1.3,
+        "Total Mobile Money Transactions":768.57,
+        "Social Media Activity Data":1865,
+        "Mobile Phone Usage":23.05,
+        "Number of Late Payments":6,
+        "Credit Score":466.403158865
+    },
+    {
+        "Account Balance":2815.44,
+        "Wallet Balance (ETH)":0.26,
+        "Total Mobile Money Transactions":435.34,
+        "Social Media Activity Data":1919,
+        "Mobile Phone Usage":83.62,
+        "Number of Late Payments":4,
+        "Credit Score":280.8309777985
+    },
+    {
+        "Account Balance":3138.36,
+        "Wallet Balance (ETH)":1.88,
+        "Total Mobile Money Transactions":956.77,
+        "Social Media Activity Data":2716,
+        "Mobile Phone Usage":44.12,
+        "Number of Late Payments":1,
+        "Credit Score":780.9854664443
+    },
+    {
+        "Account Balance":3543.32,
+        "Wallet Balance (ETH)":1.19,
+        "Total Mobile Money Transactions":704.92,
+        "Social Media Activity Data":2035,
+        "Mobile Phone Usage":49.46,
+        "Number of Late Payments":8,
+        "Credit Score":613.2537375114
+    },
+    {
+        "Account Balance":2588.85,
+        "Wallet Balance (ETH)":1.3,
+        "Total Mobile Money Transactions":945.57,
+        "Social Media Activity Data":793,
+        "Mobile Phone Usage":72.7,
+        "Number of Late Payments":8,
+        "Credit Score":505.7461059014
+    },
+    {
+        "Account Balance":1339.75,
+        "Wallet Balance (ETH)":1.09,
+        "Total Mobile Money Transactions":648.81,
+        "Social Media Activity Data":655,
+        "Mobile Phone Usage":87.57,
+        "Number of Late Payments":7,
+        "Credit Score":281.3712844835
+    },
+    {
+        "Account Balance":1308.1,
+        "Wallet Balance (ETH)":0.72,
+        "Total Mobile Money Transactions":270.86,
+        "Social Media Activity Data":1993,
+        "Mobile Phone Usage":13.42,
+        "Number of Late Payments":1,
+        "Credit Score":211.6826993703
+    },
+    {
+        "Account Balance":2054.06,
+        "Wallet Balance (ETH)":1.81,
+        "Total Mobile Money Transactions":355.53,
+        "Social Media Activity Data":4722,
+        "Mobile Phone Usage":94.77,
+        "Number of Late Payments":1,
+        "Credit Score":635.027919343
+    },
+    {
+        "Account Balance":2798.27,
+        "Wallet Balance (ETH)":1.84,
+        "Total Mobile Money Transactions":588.57,
+        "Social Media Activity Data":2273,
+        "Mobile Phone Usage":15.76,
+        "Number of Late Payments":10,
+        "Credit Score":679.0946351921
+    },
+    {
+        "Account Balance":4618.76,
+        "Wallet Balance (ETH)":0.54,
+        "Total Mobile Money Transactions":999.0,
+        "Social Media Activity Data":2773,
+        "Mobile Phone Usage":61.01,
+        "Number of Late Payments":4,
+        "Credit Score":618.389314616
+    },
+    {
+        "Account Balance":2468.89,
+        "Wallet Balance (ETH)":1.26,
+        "Total Mobile Money Transactions":677.24,
+        "Social Media Activity Data":2646,
+        "Mobile Phone Usage":34.72,
+        "Number of Late Payments":1,
+        "Credit Score":524.3854758073
+    },
+    {
+        "Account Balance":4981.54,
+        "Wallet Balance (ETH)":0.76,
+        "Total Mobile Money Transactions":328.76,
+        "Social Media Activity Data":3708,
+        "Mobile Phone Usage":56.87,
+        "Number of Late Payments":9,
+        "Credit Score":699.4417745693
+    },
+    {
+        "Account Balance":2488.23,
+        "Wallet Balance (ETH)":0.22,
+        "Total Mobile Money Transactions":771.33,
+        "Social Media Activity Data":3169,
+        "Mobile Phone Usage":19.28,
+        "Number of Late Payments":9,
+        "Credit Score":244.1643810849
+    },
+    {
+        "Account Balance":4538.56,
+        "Wallet Balance (ETH)":0.23,
+        "Total Mobile Money Transactions":659.88,
+        "Social Media Activity Data":3441,
+        "Mobile Phone Usage":20.88,
+        "Number of Late Payments":9,
+        "Credit Score":512.3021068248
+    },
+    {
+        "Account Balance":4755.07,
+        "Wallet Balance (ETH)":1.97,
+        "Total Mobile Money Transactions":645.95,
+        "Social Media Activity Data":3161,
+        "Mobile Phone Usage":74.02,
+        "Number of Late Payments":4,
+        "Credit Score":1000.0
+    },
+    {
+        "Account Balance":2468.52,
+        "Wallet Balance (ETH)":0.17,
+        "Total Mobile Money Transactions":365.27,
+        "Social Media Activity Data":2667,
+        "Mobile Phone Usage":54.47,
+        "Number of Late Payments":10,
+        "Credit Score":203.6940059374
+    },
+    {
+        "Account Balance":2283.43,
+        "Wallet Balance (ETH)":1.63,
+        "Total Mobile Money Transactions":233.92,
+        "Social Media Activity Data":2998,
+        "Mobile Phone Usage":84.97,
+        "Number of Late Payments":4,
+        "Credit Score":576.8733564394
+    },
+    {
+        "Account Balance":3668.72,
+        "Wallet Balance (ETH)":0.92,
+        "Total Mobile Money Transactions":628.62,
+        "Social Media Activity Data":3352,
+        "Mobile Phone Usage":39.43,
+        "Number of Late Payments":8,
+        "Credit Score":578.6694281983
+    },
+    {
+        "Account Balance":3378.2,
+        "Wallet Balance (ETH)":0.57,
+        "Total Mobile Money Transactions":114.71,
+        "Social Media Activity Data":1622,
+        "Mobile Phone Usage":19.73,
+        "Number of Late Payments":0,
+        "Credit Score":432.3769135525
+    },
+    {
+        "Account Balance":2735.85,
+        "Wallet Balance (ETH)":1.8,
+        "Total Mobile Money Transactions":787.68,
+        "Social Media Activity Data":3784,
+        "Mobile Phone Usage":83.28,
+        "Number of Late Payments":3,
+        "Credit Score":713.0327396471
+    },
+    {
+        "Account Balance":3871.19,
+        "Wallet Balance (ETH)":0.9,
+        "Total Mobile Money Transactions":418.59,
+        "Social Media Activity Data":4878,
+        "Mobile Phone Usage":86.74,
+        "Number of Late Payments":7,
+        "Credit Score":619.9695542752
+    },
+    {
+        "Account Balance":2162.45,
+        "Wallet Balance (ETH)":0.86,
+        "Total Mobile Money Transactions":933.97,
+        "Social Media Activity Data":756,
+        "Mobile Phone Usage":62.86,
+        "Number of Late Payments":1,
+        "Credit Score":358.8194936582
+    },
+    {
+        "Account Balance":1452.9,
+        "Wallet Balance (ETH)":1.12,
+        "Total Mobile Money Transactions":575.81,
+        "Social Media Activity Data":2447,
+        "Mobile Phone Usage":21.62,
+        "Number of Late Payments":7,
+        "Credit Score":331.3686208862
+    },
+    {
+        "Account Balance":2225.93,
+        "Wallet Balance (ETH)":0.7,
+        "Total Mobile Money Transactions":251.05,
+        "Social Media Activity Data":4932,
+        "Mobile Phone Usage":21.96,
+        "Number of Late Payments":8,
+        "Credit Score":349.1159278278
+    },
+    {
+        "Account Balance":1745.62,
+        "Wallet Balance (ETH)":1.16,
+        "Total Mobile Money Transactions":371.71,
+        "Social Media Activity Data":2600,
+        "Mobile Phone Usage":35.67,
+        "Number of Late Payments":5,
+        "Credit Score":381.6139139868
+    },
+    {
+        "Account Balance":3669.78,
+        "Wallet Balance (ETH)":0.4,
+        "Total Mobile Money Transactions":786.75,
+        "Social Media Activity Data":1689,
+        "Mobile Phone Usage":35.92,
+        "Number of Late Payments":3,
+        "Credit Score":438.9556761259
+    },
+    {
+        "Account Balance":1021.58,
+        "Wallet Balance (ETH)":1.93,
+        "Total Mobile Money Transactions":597.93,
+        "Social Media Activity Data":502,
+        "Mobile Phone Usage":57.41,
+        "Number of Late Payments":1,
+        "Credit Score":472.9895086551
+    },
+    {
+        "Account Balance":4608.65,
+        "Wallet Balance (ETH)":0.96,
+        "Total Mobile Money Transactions":568.81,
+        "Social Media Activity Data":4884,
+        "Mobile Phone Usage":87.25,
+        "Number of Late Payments":5,
+        "Credit Score":742.1013038713
+    },
+    {
+        "Account Balance":4943.64,
+        "Wallet Balance (ETH)":0.18,
+        "Total Mobile Money Transactions":707.1,
+        "Social Media Activity Data":3316,
+        "Mobile Phone Usage":45.45,
+        "Number of Late Payments":5,
+        "Credit Score":563.7258399614
+    },
+    {
+        "Account Balance":3623.73,
+        "Wallet Balance (ETH)":0.93,
+        "Total Mobile Money Transactions":818.99,
+        "Social Media Activity Data":3076,
+        "Mobile Phone Usage":26.89,
+        "Number of Late Payments":10,
+        "Credit Score":570.878163829
+    },
+    {
+        "Account Balance":1827.62,
+        "Wallet Balance (ETH)":0.51,
+        "Total Mobile Money Transactions":467.69,
+        "Social Media Activity Data":590,
+        "Mobile Phone Usage":91.37,
+        "Number of Late Payments":1,
+        "Credit Score":206.9829836487
+    },
+    {
+        "Account Balance":3507.18,
+        "Wallet Balance (ETH)":1.52,
+        "Total Mobile Money Transactions":888.1,
+        "Social Media Activity Data":961,
+        "Mobile Phone Usage":82.75,
+        "Number of Late Payments":9,
+        "Credit Score":678.6321378355
+    },
+    {
+        "Account Balance":4479.74,
+        "Wallet Balance (ETH)":1.47,
+        "Total Mobile Money Transactions":893.93,
+        "Social Media Activity Data":1874,
+        "Mobile Phone Usage":20.72,
+        "Number of Late Payments":1,
+        "Credit Score":833.0750989163
+    },
+    {
+        "Account Balance":2184.12,
+        "Wallet Balance (ETH)":1.78,
+        "Total Mobile Money Transactions":201.65,
+        "Social Media Activity Data":3453,
+        "Mobile Phone Usage":86.83,
+        "Number of Late Payments":8,
+        "Credit Score":596.1500525455
+    },
+    {
+        "Account Balance":3435.67,
+        "Wallet Balance (ETH)":1.29,
+        "Total Mobile Money Transactions":474.74,
+        "Social Media Activity Data":4243,
+        "Mobile Phone Usage":28.04,
+        "Number of Late Payments":10,
+        "Credit Score":647.2809514047
+    },
+    {
+        "Account Balance":2813.33,
+        "Wallet Balance (ETH)":0.45,
+        "Total Mobile Money Transactions":563.51,
+        "Social Media Activity Data":2420,
+        "Mobile Phone Usage":61.72,
+        "Number of Late Payments":5,
+        "Credit Score":338.9839264008
+    },
+    {
+        "Account Balance":4645.04,
+        "Wallet Balance (ETH)":0.33,
+        "Total Mobile Money Transactions":611.46,
+        "Social Media Activity Data":1403,
+        "Mobile Phone Usage":52.86,
+        "Number of Late Payments":6,
+        "Credit Score":526.5889972444
+    },
+    {
+        "Account Balance":2581.57,
+        "Wallet Balance (ETH)":0.98,
+        "Total Mobile Money Transactions":510.3,
+        "Social Media Activity Data":4296,
+        "Mobile Phone Usage":97.9,
+        "Number of Late Payments":6,
+        "Credit Score":470.6999449523
+    },
+    {
+        "Account Balance":1004.08,
+        "Wallet Balance (ETH)":1.99,
+        "Total Mobile Money Transactions":747.0,
+        "Social Media Activity Data":2355,
+        "Mobile Phone Usage":47.87,
+        "Number of Late Payments":5,
+        "Credit Score":508.1922568418
+    },
+    {
+        "Account Balance":3567.91,
+        "Wallet Balance (ETH)":0.31,
+        "Total Mobile Money Transactions":738.31,
+        "Social Media Activity Data":996,
+        "Mobile Phone Usage":63.39,
+        "Number of Late Payments":5,
+        "Credit Score":382.9021265193
+    },
+    {
+        "Account Balance":1349.14,
+        "Wallet Balance (ETH)":1.5,
+        "Total Mobile Money Transactions":316.31,
+        "Social Media Activity Data":1400,
+        "Mobile Phone Usage":73.4,
+        "Number of Late Payments":10,
+        "Credit Score":380.3164999362
+    },
+    {
+        "Account Balance":4454.41,
+        "Wallet Balance (ETH)":0.89,
+        "Total Mobile Money Transactions":597.5,
+        "Social Media Activity Data":3700,
+        "Mobile Phone Usage":89.65,
+        "Number of Late Payments":7,
+        "Credit Score":679.4189483472
+    },
+    {
+        "Account Balance":2584.7,
+        "Wallet Balance (ETH)":0.16,
+        "Total Mobile Money Transactions":455.71,
+        "Social Media Activity Data":3983,
+        "Mobile Phone Usage":65.04,
+        "Number of Late Payments":7,
+        "Credit Score":249.7944187143
+    },
+    {
+        "Account Balance":2629.95,
+        "Wallet Balance (ETH)":0.75,
+        "Total Mobile Money Transactions":743.8,
+        "Social Media Activity Data":3319,
+        "Mobile Phone Usage":65.02,
+        "Number of Late Payments":10,
+        "Credit Score":396.9250786568
+    },
+    {
+        "Account Balance":4361.88,
+        "Wallet Balance (ETH)":1.8,
+        "Total Mobile Money Transactions":343.38,
+        "Social Media Activity Data":1806,
+        "Mobile Phone Usage":61.86,
+        "Number of Late Payments":6,
+        "Credit Score":867.4093529396
+    },
+    {
+        "Account Balance":3205.93,
+        "Wallet Balance (ETH)":1.66,
+        "Total Mobile Money Transactions":307.76,
+        "Social Media Activity Data":1750,
+        "Mobile Phone Usage":58.67,
+        "Number of Late Payments":6,
+        "Credit Score":679.9623222049
+    },
+    {
+        "Account Balance":3448.95,
+        "Wallet Balance (ETH)":1.18,
+        "Total Mobile Money Transactions":542.71,
+        "Social Media Activity Data":2078,
+        "Mobile Phone Usage":15.78,
+        "Number of Late Payments":9,
+        "Credit Score":591.2556520728
+    },
+    {
+        "Account Balance":2145.74,
+        "Wallet Balance (ETH)":1.07,
+        "Total Mobile Money Transactions":293.77,
+        "Social Media Activity Data":3242,
+        "Mobile Phone Usage":25.0,
+        "Number of Late Payments":4,
+        "Credit Score":421.2894071155
+    },
+    {
+        "Account Balance":4750.05,
+        "Wallet Balance (ETH)":1.72,
+        "Total Mobile Money Transactions":673.25,
+        "Social Media Activity Data":1621,
+        "Mobile Phone Usage":78.7,
+        "Number of Late Payments":1,
+        "Credit Score":920.4110657134
+    },
+    {
+        "Account Balance":1706.21,
+        "Wallet Balance (ETH)":1.2,
+        "Total Mobile Money Transactions":357.07,
+        "Social Media Activity Data":4757,
+        "Mobile Phone Usage":83.94,
+        "Number of Late Payments":1,
+        "Credit Score":433.3388757682
+    },
+    {
+        "Account Balance":2429.19,
+        "Wallet Balance (ETH)":1.39,
+        "Total Mobile Money Transactions":541.94,
+        "Social Media Activity Data":2314,
+        "Mobile Phone Usage":78.17,
+        "Number of Late Payments":5,
+        "Credit Score":529.4923183467
+    },
+    {
+        "Account Balance":4490.38,
+        "Wallet Balance (ETH)":0.25,
+        "Total Mobile Money Transactions":444.24,
+        "Social Media Activity Data":3725,
+        "Mobile Phone Usage":30.84,
+        "Number of Late Payments":10,
+        "Credit Score":505.4787775864
+    },
+    {
+        "Account Balance":3982.85,
+        "Wallet Balance (ETH)":1.59,
+        "Total Mobile Money Transactions":738.55,
+        "Social Media Activity Data":866,
+        "Mobile Phone Usage":44.58,
+        "Number of Late Payments":3,
+        "Credit Score":771.7681282014
+    },
+    {
+        "Account Balance":3411.33,
+        "Wallet Balance (ETH)":1.26,
+        "Total Mobile Money Transactions":383.73,
+        "Social Media Activity Data":3851,
+        "Mobile Phone Usage":35.73,
+        "Number of Late Payments":1,
+        "Credit Score":656.0558096287
+    },
+    {
+        "Account Balance":4826.86,
+        "Wallet Balance (ETH)":0.91,
+        "Total Mobile Money Transactions":244.43,
+        "Social Media Activity Data":2408,
+        "Mobile Phone Usage":49.5,
+        "Number of Late Payments":5,
+        "Credit Score":707.5337832929
+    },
+    {
+        "Account Balance":1856.87,
+        "Wallet Balance (ETH)":1.34,
+        "Total Mobile Money Transactions":395.04,
+        "Social Media Activity Data":3547,
+        "Mobile Phone Usage":16.43,
+        "Number of Late Payments":2,
+        "Credit Score":468.5101450773
+    },
+    {
+        "Account Balance":4911.03,
+        "Wallet Balance (ETH)":1.61,
+        "Total Mobile Money Transactions":865.48,
+        "Social Media Activity Data":2502,
+        "Mobile Phone Usage":39.93,
+        "Number of Late Payments":0,
+        "Credit Score":937.0717863698
+    },
+    {
+        "Account Balance":1117.58,
+        "Wallet Balance (ETH)":0.36,
+        "Total Mobile Money Transactions":101.63,
+        "Social Media Activity Data":4130,
+        "Mobile Phone Usage":46.13,
+        "Number of Late Payments":8,
+        "Credit Score":100.0
+    },
+    {
+        "Account Balance":2985.15,
+        "Wallet Balance (ETH)":0.83,
+        "Total Mobile Money Transactions":277.82,
+        "Social Media Activity Data":4232,
+        "Mobile Phone Usage":68.34,
+        "Number of Late Payments":0,
+        "Credit Score":495.3864879743
+    },
+    {
+        "Account Balance":4634.67,
+        "Wallet Balance (ETH)":1.36,
+        "Total Mobile Money Transactions":175.47,
+        "Social Media Activity Data":2918,
+        "Mobile Phone Usage":69.54,
+        "Number of Late Payments":5,
+        "Credit Score":804.6262650069
+    },
+    {
+        "Account Balance":4646.13,
+        "Wallet Balance (ETH)":0.77,
+        "Total Mobile Money Transactions":882.79,
+        "Social Media Activity Data":2447,
+        "Mobile Phone Usage":75.68,
+        "Number of Late Payments":8,
+        "Credit Score":659.1644698715
+    },
+    {
+        "Account Balance":2151.66,
+        "Wallet Balance (ETH)":0.53,
+        "Total Mobile Money Transactions":359.93,
+        "Social Media Activity Data":3639,
+        "Mobile Phone Usage":54.02,
+        "Number of Late Payments":7,
+        "Credit Score":280.9688391397
+    },
+    {
+        "Account Balance":2588.15,
+        "Wallet Balance (ETH)":0.49,
+        "Total Mobile Money Transactions":506.07,
+        "Social Media Activity Data":4739,
+        "Mobile Phone Usage":49.0,
+        "Number of Late Payments":3,
+        "Credit Score":362.4784692548
+    },
+    {
+        "Account Balance":2625.27,
+        "Wallet Balance (ETH)":0.74,
+        "Total Mobile Money Transactions":875.69,
+        "Social Media Activity Data":4012,
+        "Mobile Phone Usage":13.9,
+        "Number of Late Payments":1,
+        "Credit Score":439.0657714827
+    },
+    {
+        "Account Balance":2834.25,
+        "Wallet Balance (ETH)":1.84,
+        "Total Mobile Money Transactions":430.93,
+        "Social Media Activity Data":4239,
+        "Mobile Phone Usage":19.73,
+        "Number of Late Payments":7,
+        "Credit Score":720.0105575313
+    },
+    {
+        "Account Balance":2685.01,
+        "Wallet Balance (ETH)":1.41,
+        "Total Mobile Money Transactions":584.24,
+        "Social Media Activity Data":1651,
+        "Mobile Phone Usage":82.17,
+        "Number of Late Payments":8,
+        "Credit Score":548.6082300315
+    },
+    {
+        "Account Balance":2370.88,
+        "Wallet Balance (ETH)":1.28,
+        "Total Mobile Money Transactions":895.85,
+        "Social Media Activity Data":921,
+        "Mobile Phone Usage":40.9,
+        "Number of Late Payments":0,
+        "Credit Score":499.2340139766
+    },
+    {
+        "Account Balance":1184.32,
+        "Wallet Balance (ETH)":1.29,
+        "Total Mobile Money Transactions":928.32,
+        "Social Media Activity Data":713,
+        "Mobile Phone Usage":86.7,
+        "Number of Late Payments":2,
+        "Credit Score":339.0736815597
+    },
+    {
+        "Account Balance":2276.02,
+        "Wallet Balance (ETH)":1.96,
+        "Total Mobile Money Transactions":486.48,
+        "Social Media Activity Data":4520,
+        "Mobile Phone Usage":20.4,
+        "Number of Late Payments":6,
+        "Credit Score":688.4604891656
+    },
+    {
+        "Account Balance":1326.5,
+        "Wallet Balance (ETH)":0.76,
+        "Total Mobile Money Transactions":484.26,
+        "Social Media Activity Data":1556,
+        "Mobile Phone Usage":96.43,
+        "Number of Late Payments":7,
+        "Credit Score":203.5141727593
+    },
+    {
+        "Account Balance":1359.21,
+        "Wallet Balance (ETH)":0.75,
+        "Total Mobile Money Transactions":488.22,
+        "Social Media Activity Data":3128,
+        "Mobile Phone Usage":89.54,
+        "Number of Late Payments":9,
+        "Credit Score":224.3142851147
+    },
+    {
+        "Account Balance":1340.04,
+        "Wallet Balance (ETH)":1.43,
+        "Total Mobile Money Transactions":471.52,
+        "Social Media Activity Data":2197,
+        "Mobile Phone Usage":76.83,
+        "Number of Late Payments":5,
+        "Credit Score":395.0258530372
+    },
+    {
+        "Account Balance":2700.11,
+        "Wallet Balance (ETH)":1.25,
+        "Total Mobile Money Transactions":232.17,
+        "Social Media Activity Data":2558,
+        "Mobile Phone Usage":43.68,
+        "Number of Late Payments":0,
+        "Credit Score":538.9571289972
+    },
+    {
+        "Account Balance":1428.45,
+        "Wallet Balance (ETH)":1.5,
+        "Total Mobile Money Transactions":486.98,
+        "Social Media Activity Data":3541,
+        "Mobile Phone Usage":60.05,
+        "Number of Late Payments":2,
+        "Credit Score":456.6757013736
+    },
+    {
+        "Account Balance":4959.16,
+        "Wallet Balance (ETH)":0.31,
+        "Total Mobile Money Transactions":194.95,
+        "Social Media Activity Data":2717,
+        "Mobile Phone Usage":67.01,
+        "Number of Late Payments":7,
+        "Credit Score":566.2974221221
+    }
+]

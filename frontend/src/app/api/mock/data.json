@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Account Balance",
+    "stat": "1311.41",
+    "change": "1.22%",
+    "changeType": "increase"
+  },
+  {
+    "name": "Total Mobile Money Transactions",
+    "stat": "$908.04",
+    "change": "5.4%",
+    "changeType": "increase"
+  },
+  {
+    "name": "Wallet Balance (ETH)",
+    "stat": "1.29",
+    "change": "3.2%",
+    "changeType": "decrease"
+  },
+  {
+    "name": "Mobile Phone Usage",
+    "stat": "99.41",
+    "change": "3.2%",
+    "changeType": "decrease"
+  },
+  {
+    "name": "Social Media Activity Data",
+    "stat": "24.57%",
+    "change": "3.2%",
+    "changeType": "decrease"
+  },
+  {
+    "name": "Number of Late Payments",
+    "stat": "4",
+    "change": "3.2%",
+    "changeType": "decrease"
+  }
+]
